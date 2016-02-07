@@ -24,7 +24,7 @@ $ gfs-upload --help
     -v, --verbose        Verbose output
 
   Examples
-    $ gfs-upload -v -H mongodb://localhost:8080/testDB /tmp/*.jpg
+    $ gfs-upload -v -H mongodb://localhost:8080/testDB /tmp/test.jpg
     $ gfs-upload -H mongodb://localhost:8080/testDB ../images/* ../js/*.js ../css/*
 ```
 
