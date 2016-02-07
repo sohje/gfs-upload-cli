@@ -23,9 +23,9 @@ $ gfs-upload --help
     -H, --host <string>  MongoDB URI
     -v, --verbose        Verbose output
 
-  Examples
-    $ gfs-upload -v -H mongodb://localhost:8080/testDB /tmp/test.jpg
-    $ gfs-upload -H mongodb://localhost:8080/testDB ../images/* ../js/*.js ../css/*
+  Examples:
+    $ gfs-upload -v -H mongodb://localhost:27107/testDB /tmp/test.jpg
+    $ gfs-upload -H mongodb://localhost/testDB ../images/* ../js/*.js ../css/*
 ```
 
 ## License
