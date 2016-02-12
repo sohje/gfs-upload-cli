@@ -1,4 +1,5 @@
 # gfs-upload-cli
+[![Build Status](https://travis-ci.org/sohje/gfs-upload-cli.svg?branch=master)](https://travis-ci.org/sohje/gfs-upload-cli)
 Upload files to MongoDB GridFS using cli
 
 ## Install
